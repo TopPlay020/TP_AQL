@@ -55,6 +55,14 @@ public class StackTest {
     }
 
     @Test
+    public void testCapacity() {
+        for (int i = 0 ; i<100 ; i++) {
+            stack.push(i);
+            assertEquals(i+1, stack.size());
+        }
+    }
+
+    @Test
     public void testPopEmptyStack() {
         assertThrows(IllegalStateException.class, stack::pop);
     }
