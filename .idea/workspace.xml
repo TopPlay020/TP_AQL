@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57660d47-1005-4687-83cf-a7708662c9e9" name="Changes" comment="Start new Project" />
+    <list default="true" id="57660d47-1005-4687-83cf-a7708662c9e9" name="Changes" comment="Start new Project + Fix Project organization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,13 +27,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/Administrator/Java Project/TP_AQL",
+    "last_opened_file_path": "C:/Users/Administrator/Java Project/TP_AQL/TP0/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Java Project\TP_AQL\TP0\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +69,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708348697929</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Start new Project">
+      <created>1708349015225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708349015225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Start new Project + Fix Project organization">
+      <created>1708349185148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708349185148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Start new Project + Fix Project organization">
+      <created>1708349209458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708349209458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Project for the next Tp" />
     <MESSAGE value="Start new Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start new Project" />
+    <MESSAGE value="Start new Project + Fix Project organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start new Project + Fix Project organization" />
   </component>
 </project>
