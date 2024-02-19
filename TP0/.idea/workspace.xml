@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d837c8b-06a2-4e8f-8633-1920ad78e829" name="Changes" comment="test Push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tp/Activity1/PersonTest.java" afterDir="false" />
+    <list default="true" id="8d837c8b-06a2-4e8f-8633-1920ad78e829" name="Changes" comment="Activity5 add testPositiveInput and testNegativeInput">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp/Activity1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp/Activity1/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,68 +43,38 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.tp.Activity3" />
+      <recent name="org.tp" />
       <recent name="org.tp.Activity1" />
       <recent name="org.tp.CoursExemples" />
-      <recent name="org.tp" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonTest">
-    <configuration name="BlackJackTest.leftPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TP0_AQL" />
+  <component name="RunManager" selected="JUnit.FactorialTest">
+    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tp.CoursExemples.*" />
+          <option name="PATTERN" value="org.tp.Activity5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tp.CoursExemples" />
-      <option name="MAIN_CLASS_NAME" value="org.tp.CoursExemples.BlackJackTest" />
-      <option name="METHOD_NAME" value="leftPlayerWins" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TP0_AQL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.tp.CoursExemples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.tp.CoursExemples" />
-      <option name="MAIN_CLASS_NAME" value="org.tp.CoursExemples.CalculatorTest" />
+      <option name="PACKAGE_NAME" value="org.tp.Activity5" />
+      <option name="MAIN_CLASS_NAME" value="org.tp.Activity5.FactorialTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountLettersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TP0_AQL" />
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tp.CoursExemples.*" />
+          <option name="PATTERN" value="org.tp.Activity3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tp.CoursExemples" />
-      <option name="MAIN_CLASS_NAME" value="org.tp.CoursExemples.CountLettersTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TP0_AQL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.tp.CoursExemples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.tp.CoursExemples" />
-      <option name="MAIN_CLASS_NAME" value="org.tp.CoursExemples.LeapYearTest" />
+      <option name="PACKAGE_NAME" value="org.tp.Activity3" />
+      <option name="MAIN_CLASS_NAME" value="org.tp.Activity3.FibonacciTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,13 +95,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tp.Activity4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tp.Activity4" />
+      <option name="MAIN_CLASS_NAME" value="org.tp.Activity4.PrimeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.testCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tp.Activity2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tp.Activity2" />
+      <option name="MAIN_CLASS_NAME" value="org.tp.Activity2.StackTest" />
+      <option name="METHOD_NAME" value="testCapacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FactorialTest" />
+        <item itemvalue="JUnit.PrimeTest" />
+        <item itemvalue="JUnit.FibonacciTest" />
+        <item itemvalue="JUnit.StackTest.testCapacity" />
         <item itemvalue="JUnit.PersonTest" />
-        <item itemvalue="JUnit.CountLettersTest" />
-        <item itemvalue="JUnit.BlackJackTest.leftPlayerWins" />
-        <item itemvalue="JUnit.LeapYearTest" />
-        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,77 @@
       <option name="project" value="LOCAL" />
       <updated>1708331878913</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Activity1 Complete">
+      <created>1708332505205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708332505205</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Activity2 Creation Complete">
+      <created>1708332661386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708332661386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Activity2 Test Complete">
+      <created>1708333332999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708333332999</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Activity2 add testCapacity">
+      <created>1708334231971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334231971</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Activity2 Creation Complete">
+      <created>1708334336035</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334336035</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Activity3 testPositiveInput and testNegativeInput">
+      <created>1708334609640</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334609640</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Activity4 Creation Complete">
+      <created>1708334840627</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334840627</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Activity4 add testPrimeNumbers and testNonPrimeNumbers">
+      <created>1708334982468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334982468</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Activity5 Creation Complete">
+      <created>1708335078350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708335078350</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Activity5 add testPositiveInput and testNegativeInput">
+      <created>1708335169481</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708335169481</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +263,16 @@
     </ignored-roots>
     <MESSAGE value="Project organization" />
     <MESSAGE value="test Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="test Push" />
+    <MESSAGE value="Activity1 Complete" />
+    <MESSAGE value="Activity2 Test Complete" />
+    <MESSAGE value="Activity2 add testCapacity" />
+    <MESSAGE value="Activity2 Creation Complete" />
+    <MESSAGE value="Activity3 testPositiveInput and testNegativeInput" />
+    <MESSAGE value="Activity4 Creation Complete" />
+    <MESSAGE value="Activity4 add testPrimeNumbers and testNonPrimeNumbers" />
+    <MESSAGE value="Activity5 Creation Complete" />
+    <MESSAGE value="Activity5 add testPositiveInput and testNegativeInput" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity5 add testPositiveInput and testNegativeInput" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TP0_AQL$CountLettersTest.ic" NAME="CountLettersTest Coverage Results" MODIFIED="1708329048978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
