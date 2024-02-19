@@ -1,9 +1,10 @@
 package org.tp.Activity1;
-///
+
 public class Person {
-    private String firstName;
-    private String lastName;
-    private int age;
+    String firstName;
+    String lastName;
+    int age;
+
     public Person(String firstName, String lastName, int age) {
         this.firstName = firstName;
         this.lastName = lastName;

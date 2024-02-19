@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d837c8b-06a2-4e8f-8633-1920ad78e829" name="Changes" comment="" />
+    <list default="true" id="8d837c8b-06a2-4e8f-8633-1920ad78e829" name="Changes" comment="test Push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/tp/Activity1/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp/Activity1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp/Activity1/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +45,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.tp.Activity1" />
       <recent name="org.tp.CoursExemples" />
       <recent name="org.tp" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CountLettersTest">
+  <component name="RunManager" selected="JUnit.PersonTest">
     <configuration name="BlackJackTest.leftPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TP0_AQL" />
       <extension name="coverage">
@@ -107,29 +112,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralTest.numberWithManyDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TP0_AQL" />
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tp.CoursExemples.*" />
+          <option name="PATTERN" value="org.tp.Activity1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tp.CoursExemples" />
-      <option name="MAIN_CLASS_NAME" value="org.tp.CoursExemples.RomanNumeralTest" />
-      <option name="METHOD_NAME" value="numberWithManyDigits" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.tp.Activity1" />
+      <option name="MAIN_CLASS_NAME" value="org.tp.Activity1.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonTest" />
         <item itemvalue="JUnit.CountLettersTest" />
         <item itemvalue="JUnit.BlackJackTest.leftPlayerWins" />
         <item itemvalue="JUnit.LeapYearTest" />
         <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.RomanNumeralTest.numberWithManyDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +146,35 @@
       <option name="presentableId" value="Default" />
       <updated>1708327255755</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project organization">
+      <created>1708331602483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708331602483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project organization">
+      <created>1708331626460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708331626460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project organization">
+      <created>1708331740358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708331740358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test Push">
+      <created>1708331878913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708331878913</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +192,9 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Project organization" />
+    <MESSAGE value="test Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Push" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TP0_AQL$CountLettersTest.ic" NAME="CountLettersTest Coverage Results" MODIFIED="1708329048978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
