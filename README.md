@@ -1,2 +1,6 @@
-## this repository To publish projects related to applied work related to Software Quality Assurance module in order to be examined by the professor
-# student: Beghdad Amine SIAD
+# Project Name
+
+This repository contains my practice work for the software-quality-assurance module. 
+
+## Author
+Beghdad
