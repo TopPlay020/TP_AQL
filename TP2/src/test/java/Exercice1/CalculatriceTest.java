@@ -33,6 +33,14 @@ public class CalculatriceTest {
         //  méthode « verifyNoMoreInteractions »
         verifyNoMoreInteractions(calculatrice);
 
+        // TODO : Vérification de l'état de l'objet après l'appel de le méthode "additionner", penser à utiliser la méthode
+        //  « getState() » de la directive « verify » : // exemple :
+
+        when(calculatrice.getState()).thenReturn(Calculatrice.ENABLE);
+        int  s= calculatrice.getState();
+        Assert.assertEquals(s , Calculatrice.ENABLE);
+        verify(calculatrice).getState();
+
 
 
     }
