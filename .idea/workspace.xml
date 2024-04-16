@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57660d47-1005-4687-83cf-a7708662c9e9" name="Changes" comment="Start new Project + Fix Project organization">
-      <change afterPath="$PROJECT_DIR$/TP2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="57660d47-1005-4687-83cf-a7708662c9e9" name="Changes" comment="Start new TP">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TopPlay020"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TopPlay020&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -51,7 +50,11 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Java Project/TP_AQL",
+    "last_opened_file_path": "C:/Users/MSI/IdeaProjects/TP_AQL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -82,6 +85,7 @@
       <updated>1708335571778</updated>
       <workItem from="1710694038868" duration="13000" />
       <workItem from="1710766111724" duration="143000" />
+      <workItem from="1713252588836" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Project for the next Tp">
       <created>1708335729189</created>
@@ -139,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708349979232</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Start new TP">
+      <option name="closed" value="true" />
+      <created>1713252853040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713252853040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +172,7 @@
     <MESSAGE value="Add new Project for the next Tp" />
     <MESSAGE value="Start new Project" />
     <MESSAGE value="Start new Project + Fix Project organization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start new Project + Fix Project organization" />
+    <MESSAGE value="Start new TP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start new TP" />
   </component>
 </project>
